@@ -19,7 +19,7 @@ Question 3--->
 
 Output:
 
-![Task3](output/task3.png "output3")
+![Task3](output/task3.PNG "output3")
 
 
 
@@ -28,11 +28,11 @@ Question 4--->
 
 Output:
 
-![Task4](output/task4.png "output4")
+![Task4](output/task4.PNG "output4")
 
 Question 5--->
 <b>Generate random integers of size 100 and sort them using stream API in descending order.</b>
 
 Output:
 
-![Task4](output/task5.png "output5")
+![Task4](output/task5.PNG "output5")
