@@ -11,7 +11,7 @@ Additional task : set the value of the property in config file and print in cons
 
 ###Output:
 
-![Task1](output/task1.png "output1")
+![Task1](output/task1.PNG "output1")
 
 
 ###Related to Dependency Injection
@@ -27,7 +27,7 @@ Initialize the properties of classes in bean.xml and print the properties in con
 
 ###Output:
 
-![Task2](output/task2.png "output2")
+![Task2](output/task2.PNG "output2")
 
 
 #####Task 3
