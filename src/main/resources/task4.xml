@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="addressaa" class="task4.Address">
+        <property name = "address" value = "Udaipur"/>
+    </bean>
+
+
+<!--    <bean id="student" class="task4.Student" autowire="byName">-->
+<!--        <property name="studentId" value="1"/>-->
+<!--        <property name="studentName" value="NABIN GUPTA"/>-->
+<!--    </bean>-->
+
+    <bean id="student" class="task4.Student" autowire="constructor">
+            <property name="studentId" value="1"/>
+             <property name="studentName" value="NABIN GUPTA"/>
+    </bean>
+
+
+</beans>
