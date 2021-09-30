@@ -11,7 +11,7 @@ Print the result by invoking the appropriate method
 
 ###Output:
 
-![Task1](output/task1.PNG"output1")
+![Task1](output/task1.PNG "output1")
 
 
 
@@ -37,7 +37,7 @@ Print the student name and address
 
 ###Output:
 
-![Task2](output/task2.PNG"output2")
+![Task2](output/task2.PNG "output2")
 
 
 #####Task 3 
