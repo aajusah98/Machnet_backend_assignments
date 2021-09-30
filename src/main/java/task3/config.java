@@ -1,0 +1,13 @@
+package task3;
+
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+
+@Configuration
+@ComponentScan(basePackages = "task3")
+@PropertySource("classpath:application.properties")
+
+public class config {
+}
